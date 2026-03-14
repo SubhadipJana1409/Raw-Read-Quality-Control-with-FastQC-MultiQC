@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR5223500_1	/home/claude/Day_01_Raw_Read_QC/qc/raw/SRR5223500_1_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR5223500_2	/home/claude/Day_01_Raw_Read_QC/qc/raw/SRR5223500_2_fastqc/fastqc_data.txt

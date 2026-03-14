@@ -1,0 +1,11 @@
+module,Raw R1,Raw R2,Trimmed R1,Trimmed R2
+Adapter Content,PASS,PASS,PASS,PASS
+Basic Statistics,PASS,PASS,PASS,PASS
+Overrepresented sequences,PASS,PASS,PASS,PASS
+Per base N content,PASS,PASS,PASS,PASS
+Per base sequence content,FAIL,WARN,FAIL,WARN
+Per base sequence quality,PASS,PASS,PASS,PASS
+Per sequence GC content,PASS,PASS,PASS,PASS
+Per sequence quality scores,PASS,PASS,PASS,PASS
+Sequence Duplication Levels,PASS,PASS,PASS,PASS
+Sequence Length Distribution,PASS,PASS,WARN,WARN

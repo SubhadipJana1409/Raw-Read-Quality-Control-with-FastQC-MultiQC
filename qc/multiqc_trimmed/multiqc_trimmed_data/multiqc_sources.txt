@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR5223500_1	/home/claude/Day_01_Raw_Read_QC/qc/trimmed/SRR5223500_1.trimmed_fastqc/fastqc_data.txt
+FastQC	all_sections	SRR5223500_2	/home/claude/Day_01_Raw_Read_QC/qc/trimmed/SRR5223500_2.trimmed_fastqc/fastqc_data.txt
+Snippy	snippy	multiqc	/home/claude/Day_01_Raw_Read_QC/qc/multiqc_raw/multiqc_raw_data/multiqc.log
+fastp	all_sections	SRR5223500 fastp Report	/home/claude/Day_01_Raw_Read_QC/qc/fastp_reports/SRR5223500_fastp.json

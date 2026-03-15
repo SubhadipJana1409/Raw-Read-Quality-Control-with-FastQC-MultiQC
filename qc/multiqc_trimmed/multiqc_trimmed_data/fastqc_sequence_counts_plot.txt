@@ -1,3 +1,0 @@
-Sample	Unique Reads	Duplicate Reads
-SRR5223500_1	328383.0	81568.0
-SRR5223500_2	334332.0	75619.0

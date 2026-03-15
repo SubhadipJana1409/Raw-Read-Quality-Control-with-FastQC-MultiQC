@@ -1,2 +1,0 @@
-Sample	Passed Filter	Low Quality	Too Many N	Low Complexity	Too Short	Too Long
-SRR5223500 fastp Report	819902.0	2.0	0.0	nan	180096.0	0.0
